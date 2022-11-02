@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="add_colour_the_most_dark">#0F0123</color>
+    <color name="add_colour_the_most_bright">#FBBEFB</color>
     <color name="add_colour_2">#1c1207</color>
 </resources>
